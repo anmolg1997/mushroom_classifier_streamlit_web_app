@@ -43,7 +43,7 @@ This web application will allows users to choose what classification algorithm t
 
 ### Final Results :
 <p align="center">
-    <img width='600' src="assets/SVM.jpg">
-    <img width='600' src="assets/Logistic.jpg">
-    <img width='600' src="assets/RandomForest.jpg">
+    <img width='600' src="SVM.png">
+    <img width='600' src="logistic.png">
+    <img width='600' src="random_forest.png">
 <p>
