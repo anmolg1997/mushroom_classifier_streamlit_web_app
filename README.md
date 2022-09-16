@@ -41,4 +41,9 @@ This web application will allows users to choose what classification algorithm t
 - Fork the repository and make necessary changes.
 - Connect the web app to the repository.
 
-### Final Outcomes :
+### Final Results :
+<p align="center">
+    <img width='600' src="assets/SVM.jpg">
+    <img width='600' src="assets/Logistic.jpg">
+    <img width='600' src="assets/RandomForest.jpg">
+<p>
