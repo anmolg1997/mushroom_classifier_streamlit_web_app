@@ -4,3 +4,4 @@ pillow==9.0.1
 plotly==4.8.1
 numpy==1.22.0
 scikit-learn==0.23.1
+matplotlib
